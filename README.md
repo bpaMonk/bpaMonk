@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bpaMonk
 - 👀 I’m interested in Business Process Automation
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django Projects
+- 💞️ I’m looking to collaborate on Django & ReactJS Projects
 - 📫 You can reach me bpaMonk@gmail.com
 
 <!---
